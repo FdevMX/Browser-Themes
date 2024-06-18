@@ -42,5 +42,10 @@
         1,
         0.5196078431372548
       ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 0
     }
 }
