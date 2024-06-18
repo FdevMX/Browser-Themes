@@ -47,6 +47,10 @@
           "ntp_background_repeat": "no-repeat",
           "ntp_logo_alternate": 0
         }
+    },
+    "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
     }
-
 }
