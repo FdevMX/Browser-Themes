@@ -10,7 +10,7 @@
         "images": {
           "theme_toolbar": "images/tab_highlight.png",
           "theme_tab_background": "images/tab_inactive.png",
-          "theme_ntp_background": "images/nopi.jpg"
+          //"theme_ntp_background": "images/nopi.jpg"
         },
         "colors": {
           "bookmark_text": [187, 187, 187],
