@@ -1,0 +1,8 @@
+{
+    "name": "Personal Theme: Blue dark",
+    "short_name": "Personal Theme",
+    "version": "1.0.5",
+    "description": "A dark theme modeled after Blue light",
+    "default_locale": "es",
+    "manifest_version": 3
+}
